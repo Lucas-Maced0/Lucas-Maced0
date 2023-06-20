@@ -1,2 +1,2 @@
 
-  ![snake gif](https://github.com/Lucas-Maced0/Lucas-Maced0/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/lucas-macedo-dev/lucas-macedo-dev/blob/output/github-contribution-grid-snake.svg)
