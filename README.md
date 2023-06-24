@@ -1,14 +1,17 @@
-Hello, there! 💫
+#🖖 Hello, there! 
 
-texto sobre mim
+I'm Lucas Macedo, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Bartofil Distribuidora. </br>
 
+#👨‍💻Expertise
+I'm developing into full-stack development. That said, I've been perfecting my knowledge of HTML, CSS, JavaScript, php and SQL database </br>
+I love doing full-stack development because with the front end I can combine my creativity with problem-solving skills to deliver exceptional user experiences. And by using the backend I can make the connections that make the systems really work.</br>
 
-🌎 Socials:
+#🌎 Socials:
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-🖥 Tech Stack:
+#🖥 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,8 +20,7 @@ texto sobre mim
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-📊 Github Stats:
+#📊 Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-macedo-dev&hide_progress=false)
