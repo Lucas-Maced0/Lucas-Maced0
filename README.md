@@ -1,10 +1,13 @@
 Hello, there! 💫
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) 
+texto sobre mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-macedo-dev&hide_progress=false)
 
-My stacks: 
+🌎 Socials:
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+🖥 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,3 +16,6 @@ My stacks:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+📊 Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-macedo-dev&hide_progress=false)
