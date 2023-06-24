@@ -1,16 +1,16 @@
 # 🖖 Hello there!
 
 I'm Lucas Macedo, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Bartofil Distribuidora. </br>
-
+</br>
 # 👨‍💻 Expertise
 I'm developing into full-stack development. That said, I've been perfecting my knowledge of HTML, CSS, JavaScript, php and SQL database </br>
 I love doing full-stack development because with the front end I can combine my creativity with problem-solving skills to deliver exceptional user experiences. And by using the backend I can make the connections that make the systems really work.</br>
-
+</br>
 # 🌐 Socials:
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+</br>
 # 💻 Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
