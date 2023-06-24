@@ -4,6 +4,7 @@ texto sobre mim
 
 
 🌎 Socials:
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -17,5 +18,7 @@ texto sobre mim
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 📊 Github Stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-macedo-dev&hide_progress=false)
