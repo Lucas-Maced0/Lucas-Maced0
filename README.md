@@ -22,5 +22,9 @@ I love doing full-stack development because with the front end I can combine my 
 
 **📊 Github Stats:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-macedo-dev&show_icons=true&theme=radical) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-macedo-dev&hide_progress=false)
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-macedo-dev&theme=neon&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
