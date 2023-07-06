@@ -1,6 +1,6 @@
 # 🖖 Hello there!
 
-I'm Lucas Macedo, a passionate software developer and tech enthusiast. I currently work as a Junior Software Developer at Bartofil Distribuidora. </br>
+I'm Lucas Macedo. I currently work as a Junior Software Developer at Bartofil Distribuidora. </br>
 
 # 👨‍💻 Expertise:
 I'm a developer in the process of training full-stack development. I've been perfecting my knowledge of HTML, CSS, JavaScript, php and SQL database.
