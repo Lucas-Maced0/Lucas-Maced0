@@ -2,12 +2,10 @@
 
 Oi, eu sou o Lucas Macedo. Atualmente trabalho como desenvolvedor full-stack na Bartofil Distribuidora. </br>
 
-
 # 👨‍💻 Sobre mim:
 Sou um desenvolvedor no processo aprendizagem do desenvolvimento full-stack. Venho aperfeiçoando meus conhecimentos de HTML, CSS, JavaScript, php e banco de dados SQL. 
 Sempre busco aprender novas tecnologias e frameworks que me mantenham atualizado e que aumentem o desempenho e qualidade dos meus códigos</br>
 </br>
-
 
 # 💻 Stacks | Áreas que estudo:
 
