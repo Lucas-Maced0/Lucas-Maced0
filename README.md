@@ -2,16 +2,12 @@
 
 Oi, eu sou o Lucas Macedo. Atualmente trabalho como desenvolvedor full-stack na Bartofil Distribuidora. </br>
 
+
 # 👨‍💻 Sobre mim:
 Sou um desenvolvedor no processo aprendizagem do desenvolvimento full-stack. Venho aperfeiçoando meus conhecimentos de HTML, CSS, JavaScript, php e banco de dados SQL. 
 Sempre busco aprender novas tecnologias e frameworks que me mantenham atualizado e que aumentem o desempenho e qualidade dos meus códigos</br>
 </br>
 
-# 🌐 Redes Sociais:
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</br>
 
 # 💻 Stacks | Áreas que estudo:
 
@@ -23,6 +19,7 @@ Sempre busco aprender novas tecnologias e frameworks que me mantenham atualizado
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 
 # 📊 Estatísticas do GitHub:
