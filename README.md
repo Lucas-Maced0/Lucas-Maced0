@@ -1,19 +1,19 @@
 # 🖖 Hello there!
 
-I'm Lucas Macedo. I currently work as a Junior Software Developer at Bartofil Distribuidora. </br>
+Oi, eu sou o Lucas Macedo. Atualmente trabalho como desenvolvedor full-stack Junior na Bartofil Distribuidora. </br>
 
-# 👨‍💻 Expertise:
-I'm a developer in the process of training full-stack development. I've been perfecting my knowledge of HTML, CSS, JavaScript, php and SQL database.
-I love doing full-stack development because with the frontend I can combine my creativity with problem-solving skills to deliver great user experiences, and using the backend I can create the connections that make systems really work.</br>
+# 👨‍💻 Sobre mim:
+Sou um desenvolvedor no processo aprendizagem do desenvolvimento full-stack. Venho aperfeiçoando meus conhecimentos de HTML, CSS, JavaScript, php e banco de dados SQL. 
+Sempre busco aprender novas tecnologias e frameworks que me mantenham atualizado e que aumentem o desempenho e qualidade dos meus códigos</br>
 </br>
 
-# 🌐 Socials:
+# 🌐 Redes Sociais:
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </br>
 
-# 💻 Tech Stack:
+# 💻 Stacks | Áreas que estudo:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,9 +21,11 @@ I love doing full-stack development because with the frontend I can combine my c
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 Estatísticas do GitHub:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-macedo-dev&theme=neon&hide_border=false"  width="400px" />
 
 
