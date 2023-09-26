@@ -1,6 +1,6 @@
 # 🖖 Hello there!
 
-Oi, eu sou o Lucas Macedo. Atualmente trabalho como desenvolvedor full-stack na Bartofil Distribuidora. </br>
+Oi, eu sou o Lucas Macedo. Atualmente trabalho como desenvolvedor web na Bartofil Distribuidora. </br>
 
 # 👨‍💻 Sobre mim:
 Sou um desenvolvedor no processo aprendizagem do desenvolvimento full-stack. Venho aperfeiçoando meus conhecimentos de HTML, CSS, JavaScript, php e banco de dados SQL. 
