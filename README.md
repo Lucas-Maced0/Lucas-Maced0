@@ -21,6 +21,6 @@ Sempre busco aprender novas tecnologias e frameworks que me mantenham atualizado
 
 
 # 📊 Estatísticas do GitHub:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false" style="width: 50%;"/><img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="39%">
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false" style="width: 50%;"/><img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lucas-macedo-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="37%">
 
 
