@@ -14,7 +14,7 @@ Sou um desenvolvedor full-stack em constante evolução, apaixonado por tecnolog
 - Bancos de Dados: MySQL, Oracle
 - Cloud: Oracle Cloud
 - Ferramentas: Git, GitHub
-- Outros: Firebase (em estudo), Java (em estudo)
+- Outros: Firebase (em estudo), React (em estudo), Java (em estudo)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
