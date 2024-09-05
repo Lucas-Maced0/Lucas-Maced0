@@ -9,7 +9,7 @@ Sou um desenvolvedor full-stack em constante evolução, apaixonado por tecnolog
 ## 💻 Stacks | Áreas que estudo:
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP, Node.js (em estudo)
+- Backend: PHP, Node.js
 - Frameworks: Laravel
 - Bancos de Dados: MySQL, Oracle
 - Cloud: Oracle Cloud
